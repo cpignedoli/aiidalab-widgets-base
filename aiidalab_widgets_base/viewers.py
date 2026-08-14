@@ -1,6 +1,6 @@
-from __future__ import annotations
-
 """Jupyter viewers for AiiDA data objects."""
+
+from __future__ import annotations
 
 import base64
 import copy
